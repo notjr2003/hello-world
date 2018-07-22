@@ -1,0 +1,2 @@
+this is a test
+to confirm the editorconfig works removing the trailing spaces
